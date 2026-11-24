@@ -1,8 +1,6 @@
 # Week 3 — Password Cracking Project
 
 **Program:** Networkwalks Cybersecurity & Ethical Hacking Program (Batch B084C)
-**Author:** Ishatse Fleury
-**Submission deadline:** 2300H, Friday 28-August-2026
 
 ## Overview
 
